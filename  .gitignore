@@ -1,7 +1,7 @@
 # .gitignore for C++ and CMake
 
 # Ignore build directory
-/build/
+build/
 
 # Ignore all CMake generated files
 CMakeCache.txt
